@@ -1,0 +1,5 @@
+report.html
+assets
+.vscode
+__pycache__
+.pytest_cache
